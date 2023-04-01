@@ -1,0 +1,864 @@
+END OF FCFS:
+# of entries: 151
+1st entry: [0, 0, 9]
+Last entry: [150, 842, 1130]
+Last inserted entry: [150, 842, 1130]
+
+Minute # 0
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+0            9                0                   9                   1.5             
+3            23               7                   17                  1.7             
+2            34               5                   30                  3.75            
+8            46               14                  22                  2.75            
+1            52               0                   50                  4.166666666666667
+
+Minute # 1
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+10           64               23                  32                  3.5555555555555554
+6            75               18                  59                  11.8            
+7            77               17                  58                  14.5            
+13           87               35                  45                  4.5             
+14           92               42                  47                  9.4             
+15           98               45                  51                  8.5             
+9            101              18                  73                  14.6            
+4            107              19                  99                  24.75           
+5            110              15                  97                  16.166666666666668
+
+Minute # 2
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+23           132              56                  62                  10.333333333333334
+11           138              30                  104                 9.454545454545455
+17           162              51                  110                 15.714285714285714
+18           175              53                  118                 11.8            
+19           179              55                  119                 19.833333333333332
+
+Minute # 3
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+22           194              55                  126                 21.0            
+24           210              65                  137                 27.4            
+12           215              32                  178                 19.77777777777778
+32           239              50                  137                 22.833333333333332
+
+Minute # 4
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+50           251              82                  94                  7.833333333333333
+33           253              51                  149                 37.25           
+16           256              51                  206                 34.333333333333336
+52           269              96                  103                 14.714285714285714
+35           271              52                  160                 40.0            
+37           276              53                  161                 40.25           
+20           292              56                  230                 23.0            
+
+Minute # 5
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+58           300              105                 111                 18.5            
+21           304              56                  239                 29.875          
+41           307              62                  180                 36.0            
+43           325              65                  194                 19.4            
+45           333              65                  195                 32.5            
+65           347              129                 137                 17.125          
+25           353              63                  275                 55.0            
+26           355              60                  273                 68.25           
+47           359              72                  214                 53.5            
+
+Minute # 6
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+27           362              58                  277                 46.166666666666664
+68           366              138                 142                 35.5            
+48           372              73                  225                 20.454545454545453
+28           378              55                  288                 41.142857142857146
+29           380              53                  286                 71.5            
+30           385              50                  287                 57.4            
+72           397              154                 163                 18.11111111111111
+49           403              76                  251                 20.916666666666668
+31           409              49                  309                 28.09090909090909
+74           415              170                 174                 43.5            
+
+Minute # 7
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+75           427              169                 181                 15.083333333333334
+51           447              94                  285                 25.90909090909091
+34           452              53                  343                 85.75           
+36           466              52                  353                 39.22222222222222
+55           478              100                 301                 33.44444444444444
+
+Minute # 8
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+38           484              57                  366                 73.2            
+39           496              59                  376                 34.18181818181818
+57           498              100                 313                 78.25           
+89           506              209                 214                 42.8            
+40           513              61                  390                 35.45454545454545
+92           522              214                 221                 31.571428571428573
+60           539              113                 343                 42.875          
+
+Minute # 9
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+42           542              65                  413                 68.83333333333333
+61           544              114                 344                 86.0            
+44           557              68                  424                 70.66666666666667
+63           567              120                 361                 45.125          
+64           579              125                 371                 37.1            
+46           581              65                  440                 110.0           
+66           598              132                 383                 54.714285714285715
+
+Minute # 10
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+67           607              136                 388                 77.6            
+108          615              246                 254                 31.75           
+111          623              249                 253                 63.25           
+114          638              247                 255                 31.875          
+70           640              151                 411                 102.75          
+
+Minute # 11
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+121          668              252                 261                 29.0            
+122          679              256                 267                 24.272727272727273
+73           681              171                 443                 110.75          
+123          687              264                 270                 45.0            
+77           707              175                 453                 64.71428571428571
+78           713              174                 455                 50.55555555555556
+
+Minute # 12
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+79           723              176                 463                 46.3            
+81           747              184                 479                 59.875          
+82           749              186                 479                 119.75          
+53           757              103                 589                 84.14285714285714
+137          764              293                 300                 42.857142857142854
+54           769              104                 597                 149.25          
+85           778              189                 499                 49.9            
+
+Minute # 13
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+141          790              299                 309                 30.9            
+56           798              101                 617                 154.25          
+87           808              199                 522                 47.45454545454545
+147          830              321                 329                 41.125          
+88           834              209                 545                 77.85714285714286
+
+Minute # 14
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+94           850              216                 540                 67.5            
+59           854              114                 661                 82.625          
+95           857              218                 543                 90.5            
+62           865              114                 663                 55.25           
+97           867              226                 544                 136.0           
+98           871              224                 544                 77.71428571428571
+99           877              227                 547                 45.583333333333336
+100          880              232                 545                 90.83333333333333
+101          884              231                 545                 68.125          
+102          890              238                 547                 45.583333333333336
+
+Minute # 15
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+109          900              252                 537                 107.4           
+69           907              145                 680                 97.14285714285714
+71           915              153                 683                 75.88888888888889
+116          918              253                 528                 105.6           
+117          924              251                 530                 48.18181818181818
+118          927              253                 530                 88.33333333333333
+125          937              265                 513                 42.75           
+76           941              178                 692                 115.33333333333333
+127          946              266                 514                 51.4            
+130          952              274                 511                 85.16666666666667
+132          959              278                 512                 42.666666666666664
+
+Minute # 16
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+133          963              282                 514                 64.25           
+80           968              184                 705                 70.5            
+134          972              285                 520                 74.28571428571429
+135          975              284                 519                 86.5            
+83           980              184                 706                 88.25           
+84           985              190                 709                 141.8           
+139          989              297                 517                 64.625          
+140          991              301                 514                 128.5           
+86           996              195                 713                 71.3            
+142          1001             306                 515                 57.22222222222222
+143          1005             309                 516                 64.5            
+144          1011             316                 519                 47.18181818181818
+145          1017             319                 523                 47.54545454545455
+
+Minute # 17
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+149          1026             330                 520                 47.27272727272727
+90           1029             211                 734                 146.8           
+91           1033             214                 734                 122.33333333333333
+93           1039             217                 734                 61.166666666666664
+96           1044             226                 726                 72.6            
+103          1047             242                 702                 117.0           
+104          1052             241                 704                 70.4            
+105          1055             241                 704                 117.33333333333333
+106          1061             243                 706                 64.18181818181819
+107          1066             244                 709                 78.77777777777777
+110          1069             252                 704                 117.33333333333333
+112          1075             249                 701                 63.72727272727273
+
+Minute # 18
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+113          1081             249                 703                 63.90909090909091
+115          1084             252                 696                 116.0           
+119          1088             252                 687                 98.14285714285714
+120          1094             250                 689                 57.416666666666664
+124          1097             266                 676                 112.66666666666667
+126          1101             268                 674                 96.28571428571429
+128          1103             272                 668                 167.0           
+129          1107             275                 669                 83.625          
+131          1111             279                 667                 95.28571428571429
+136          1114             289                 654                 109.0           
+138          1118             297                 651                 81.375          
+146          1124             321                 627                 52.25           
+148          1128             331                 625                 89.28571428571429
+150          1130             331                 619                 154.75          
+
+Throughput per minute: 7.894736842105263 
+
+END OF SRT:
+# of entries: 151
+1st entry: [0, 0, 5]
+Last entry: [150, 511, 514]
+Last inserted entry: [146, 1118, 1130]
+
+Minute # 0
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+0            5                0                   5                   0.8333333333333334
+4            11               0                   3                   0.75            
+2            17               1                   13                  1.625           
+6            22               1                   6                   1.2             
+7            26               3                   7                   1.75            
+5            32               13                  19                  3.1666666666666665
+9            37               4                   9                   1.8             
+8            45               13                  21                  2.625           
+14           50               0                   5                   1.0             
+15           56               3                   9                   1.5             
+
+Minute # 1
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+16           62               6                   12                  2.0             
+19           68               2                   8                   1.3333333333333333
+22           74               0                   6                   1.0             
+24           79               1                   6                   1.2             
+25           84               1                   6                   1.2             
+26           88               2                   6                   1.5             
+23           94               18                  24                  4.0             
+29           98               0                   4                   1.0             
+30           103              0                   5                   1.0             
+33           107              0                   3                   0.75            
+34           112              0                   3                   0.75            
+35           116              1                   5                   1.25            
+
+Minute # 2
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+37           120              1                   5                   1.25            
+27           125              18                  40                  6.666666666666667
+38           130              7                   12                  2.4             
+41           135              3                   8                   1.6             
+32           141              33                  39                  6.5             
+46           145              0                   4                   1.0             
+47           149              0                   4                   1.0             
+42           155              20                  26                  4.333333333333333
+44           161              22                  28                  4.666666666666667
+45           167              23                  29                  4.833333333333333
+17           174              115                 122                 17.428571428571427
+54           178              2                   6                   1.5             
+
+Minute # 3
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+56           184              0                   3                   0.75            
+57           188              0                   3                   0.75            
+28           193              88                  103                 14.714285714285714
+58           199              4                   10                  1.6666666666666667
+61           203              0                   3                   0.75            
+52           210              33                  44                  6.285714285714286
+53           217              42                  49                  7.0             
+67           223              0                   4                   0.8             
+68           227              0                   3                   0.75            
+70           232              0                   3                   0.75            
+66           237              2                   22                  3.142857142857143
+
+Minute # 4
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+73           241              0                   3                   0.75            
+74           245              0                   4                   1.0             
+69           252              10                  25                  3.5714285714285716
+76           258              3                   9                   1.5             
+77           265              4                   11                  1.5714285714285714
+21           273              200                 208                 26.0            
+82           277              3                   7                   1.75            
+84           282              1                   6                   1.2             
+59           290              89                  97                  12.125          
+89           296              0                   4                   0.8             
+
+Minute # 5
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+90           301              1                   6                   1.2             
+88           307              1                   18                  2.5714285714285716
+91           313              8                   14                  2.3333333333333335
+95           319              0                   5                   0.8333333333333334
+92           326              12                  25                  3.5714285714285716
+97           330              3                   7                   1.75            
+98           337              3                   10                  1.4285714285714286
+100          343              2                   8                   1.3333333333333333
+103          350              0                   5                   0.8333333333333334
+105          356              0                   5                   0.8333333333333334
+
+Minute # 6
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+60           363              147                 167                 20.875          
+109          368              0                   5                   1.0             
+111          373              0                   3                   0.75            
+110          378              3                   13                  2.1666666666666665
+63           386              172                 180                 22.5            
+115          393              0                   5                   0.8333333333333334
+116          398              3                   8                   1.6             
+118          404              1                   7                   1.1666666666666667
+65           411              176                 201                 25.125          
+119          418              10                  17                  2.4285714285714284
+
+Minute # 7
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+123          424              1                   7                   1.1666666666666667
+124          430              3                   9                   1.5             
+126          437              3                   10                  1.4285714285714286
+128          441              2                   6                   1.5             
+130          447              0                   6                   1.0             
+131          454              3                   10                  1.4285714285714286
+134          461              2                   9                   1.2857142857142858
+135          467              5                   11                  1.8333333333333333
+136          473              7                   13                  2.1666666666666665
+
+Minute # 8
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+137          480              9                   16                  2.2857142857142856
+140          484              3                   7                   1.75            
+81           492              216                 224                 28.0            
+83           500              218                 226                 28.25           
+94           508              190                 198                 24.75           
+150          514              0                   3                   0.75            
+148          519              5                   16                  2.2857142857142856
+101          527              180                 188                 23.5            
+108          535              166                 174                 21.75           
+
+Minute # 9
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+114          543              152                 160                 20.0            
+129          551              105                 113                 14.125          
+133          559              102                 110                 13.75           
+138          567              92                  100                 12.5            
+139          575              95                  103                 12.875          
+143          583              86                  94                  11.75           
+147          591              82                  90                  11.25           
+
+Minute # 10
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+10           600              559                 568                 63.111111111111114
+12           609              563                 572                 63.55555555555556
+36           618              496                 505                 56.111111111111114
+55           627              441                 450                 50.0            
+71           636              395                 404                 44.888888888888886
+72           645              402                 411                 45.666666666666664
+78           654              387                 396                 44.0            
+
+Minute # 11
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+107          663              297                 306                 34.0            
+121          672              256                 265                 29.444444444444443
+142          681              186                 195                 21.666666666666668
+3            691              675                 685                 68.5            
+13           701              649                 659                 65.9            
+18           711              644                 654                 65.4            
+
+Minute # 12
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+20           721              649                 659                 65.9            
+43           731              590                 600                 60.0            
+64           741              523                 533                 53.3            
+79           751              481                 491                 49.1            
+80           761              488                 498                 49.8            
+85           771              482                 492                 49.2            
+
+Minute # 13
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+86           781              488                 498                 49.8            
+96           791              463                 473                 47.3            
+104          801              443                 453                 45.3            
+127          811              369                 379                 37.9            
+141          821              330                 340                 34.0            
+11           832              787                 798                 72.54545454545455
+
+Minute # 14
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+31           843              732                 743                 67.54545454545455
+39           854              723                 734                 66.72727272727273
+40           865              731                 742                 67.45454545454545
+48           876              718                 729                 66.27272727272727
+51           887              714                 725                 65.9090909090909
+87           898              601                 612                 55.63636363636363
+
+Minute # 15
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+106          909              543                 554                 50.36363636363637
+112          920              535                 546                 49.63636363636363
+113          931              542                 553                 50.27272727272727
+117          942              537                 548                 49.81818181818182
+122          953              530                 541                 49.18181818181818
+
+Minute # 16
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+144          964              461                 472                 42.90909090909091
+145          975              470                 481                 43.72727272727273
+149          986              469                 480                 43.63636363636363
+1            998              0                   996                 83.0            
+49           1010             846                 858                 71.5            
+
+Minute # 17
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+50           1022             853                 865                 72.08333333333333
+62           1034             820                 832                 69.33333333333333
+75           1046             788                 800                 66.66666666666667
+93           1058             741                 753                 62.75           
+99           1070             728                 740                 61.666666666666664
+
+Minute # 18
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+102          1082             727                 739                 61.583333333333336
+120          1094             677                 689                 57.416666666666664
+125          1106             670                 682                 56.833333333333336
+132          1118             659                 671                 55.916666666666664
+146          1130             621                 633                 52.75           
+
+Throughput per minute: 7.894736842105263 
+
+END OF HRRN:
+# of entries: 151
+1st entry: [0, 0, 1052]
+Last entry: [150, 955, 976]
+Last inserted entry: [4, 1126, 1128]
+
+Minute # 0
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+3            16               0                   10                  1.0             
+6            25               0                   9                   1.8             
+8            33               1                   9                   1.125           
+10           42               1                   10                  1.1111111111111112
+13           52               0                   10                  1.0             
+
+Minute # 1
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+23           78               2                   8                   1.3333333333333333
+25           86               0                   8                   1.6             
+27           95               1                   10                  1.6666666666666667
+28           103              0                   13                  1.8571428571428572
+
+Minute # 2
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+45           146              1                   8                   1.3333333333333333
+50           171              2                   14                  1.1666666666666667
+
+Minute # 3
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+53           180              3                   12                  1.7142857142857142
+55           192              3                   15                  1.6666666666666667
+58           198              3                   9                   1.5             
+65           218              0                   8                   1.0             
+66           227              3                   12                  1.7142857142857142
+
+Minute # 4
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+72           244              1                   10                  1.1111111111111112
+74           248              3                   7                   1.75            
+75           260              2                   14                  1.1666666666666667
+89           297              0                   5                   1.0             
+
+Minute # 5
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+87           304              1                   18                  1.6363636363636365
+92           311              3                   10                  1.4285714285714286
+95           324              1                   10                  1.6666666666666667
+
+Minute # 6
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+108          369              0                   8                   1.0             
+111          375              1                   5                   1.25            
+114          391              0                   8                   1.0             
+121          418              2                   11                  1.2222222222222223
+
+Minute # 7
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+123          424              1                   7                   1.1666666666666667
+127          445              0                   13                  1.3             
+132          465              0                   18                  1.5             
+137          472              1                   8                   1.1428571428571428
+
+Minute # 8
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+139          484              0                   12                  1.5             
+141          494              3                   13                  1.3             
+147          513              4                   12                  1.5             
+149          526              7                   20                  1.8181818181818181
+146          532              2                   35                  2.9166666666666665
+145          538              0                   44                  4.0             
+
+Minute # 9
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+144          550              46                  58                  5.2727272727272725
+148          554              0                   51                  7.285714285714286
+142          567              68                  81                  9.0             
+143          571              69                  82                  10.25           
+125          577              0                   153                 12.75           
+138          585              9                   118                 14.75           
+120          591              0                   186                 15.5            
+
+Minute # 10
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+122          602              179                 190                 17.272727272727273
+117          608              1                   214                 19.454545454545453
+133          618              159                 169                 21.125          
+113          624              0                   246                 22.363636363636363
+112          630              1                   256                 23.272727272727273
+102          636              1                   293                 24.416666666666668
+99           644              1                   314                 26.166666666666668
+129          648              0                   210                 26.25           
+134          654              1                   202                 28.857142857142858
+
+Minute # 11
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+106          660              0                   305                 27.727272727272727
+93           675              355                 370                 30.833333333333332
+104          680              2                   332                 33.2            
+131          684              1                   240                 34.285714285714285
+96           690              0                   372                 37.2            
+107          695              1                   338                 37.55555555555556
+126          702              3                   275                 39.285714285714285
+135          706              0                   250                 41.666666666666664
+136          709              236                 249                 41.5            
+62           719              0                   517                 43.083333333333336
+
+Minute # 12
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+86           724              1                   441                 44.1            
+85           729              0                   450                 45.0            
+79           736              0                   476                 47.6            
+80           741              2                   478                 47.8            
+49           748              1                   596                 49.666666666666664
+119          752              2                   351                 50.142857142857146
+101          756              1                   417                 52.125          
+130          767              315                 326                 54.333333333333336
+51           773              597                 611                 55.54545454545455
+
+Minute # 13
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+48           784              1                   637                 57.90909090909091
+64           789              565                 581                 58.1            
+94           797              1                   487                 60.875          
+78           802              531                 544                 60.44444444444444
+39           810              0                   690                 62.72727272727273
+40           816              0                   693                 63.0            
+31           823              6                   723                 65.72727272727273
+71           828              0                   596                 66.22222222222223
+1            839              0                   837                 69.75           
+
+Minute # 14
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+124          842              407                 421                 70.16666666666667
+83           846              0                   572                 71.5            
+43           851              1                   720                 72.0            
+81           855              0                   587                 73.375          
+98           864              1                   537                 76.71428571428571
+11           870              821                 836                 76.0            
+118          873              3                   476                 79.33333333333333
+20           879              0                   817                 81.7            
+115          882              5                   494                 82.33333333333333
+18           887              0                   830                 83.0            
+63           891              0                   685                 85.625          
+88           899              602                 610                 87.14285714285714
+
+Minute # 15
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+36           904              1                   791                 87.88888888888889
+60           908              2                   712                 89.0            
+110          916              4                   551                 91.83333333333333
+59           920              715                 727                 90.875          
+105          927              2                   576                 96.0            
+77           931              667                 677                 96.71428571428571
+103          941              586                 596                 99.33333333333333
+12           946              896                 909                 101.0           
+100          949              2                   614                 102.33333333333333
+69           953              0                   726                 103.71428571428571
+
+Minute # 16
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+91           962              654                 663                 110.5           
+21           966              0                   901                 112.625         
+52           974              801                 808                 115.42857142857143
+150          976              444                 465                 116.25          
+116          979              1                   589                 117.8           
+2            990              977                 986                 123.25          
+76           993              730                 744                 124.0           
+140          997              1                   520                 130.0           
+109          1000             630                 637                 127.4           
+17           1004             0                   952                 136.0           
+90           1009             2                   714                 142.8           
+128          1011             2                   576                 144.0           
+44           1016             4                   883                 147.16666666666666
+42           1019             1                   890                 148.33333333333334
+
+Minute # 17
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+32           1023             1                   921                 153.5           
+84           1026             0                   750                 150.0           
+22           1029             1                   961                 160.16666666666666
+67           1035             2                   816                 163.2           
+19           1038             969                 978                 163.0           
+15           1045             992                 998                 166.33333333333334
+16           1048             5                   998                 166.33333333333334
+0            1052             0                   1052                175.33333333333334
+5            1055             5                   1042                173.66666666666666
+97           1057             1                   734                 183.5           
+41           1060             1                   933                 186.6           
+38           1065             1                   947                 189.4           
+30           1068             0                   970                 194.0           
+24           1071             6                   998                 199.6           
+82           1073             2                   803                 200.75          
+14           1078             1028                1033                206.6           
+
+Minute # 18
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+9            1085             1050                1057                211.4           
+73           1087             842                 849                 212.25          
+70           1089             0                   860                 215.0           
+68           1093             865                 869                 217.25          
+57           1097             0                   912                 228.0           
+61           1099             893                 899                 224.75          
+54           1102             1                   930                 232.5           
+56           1104             3                   923                 230.75          
+47           1106             1                   961                 240.25          
+37           1109             2                   994                 248.5           
+46           1111             1                   970                 242.5           
+35           1113             1                   1002                250.5           
+34           1118             0                   1009                252.25          
+33           1120             1010                1016                254.0           
+29           1122             1                   1028                257.0           
+26           1124             0                   1042                260.5           
+7            1126             1                   1107                276.75          
+4            1128             1118                1120                280.0           
+
+Throughput per minute: 7.894736842105263 
+
+END OF RR:
+# of entries: 151
+1st entry: [0, 0, 1126]
+Last entry: [150, 515, 527]
+Last inserted entry: [2, 1119, 1130]
+
+Minute # 0
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+3            16               0                   10                  1.0             
+6            23               0                   7                   1.4             
+8            32               0                   8                   1.0             
+10           41               0                   9                   1.0             
+13           54               2                   12                  1.2             
+
+Minute # 1
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+20           76               0                   14                  1.4             
+24           82               3                   9                   1.8             
+25           88               0                   10                  2.0             
+26           90               0                   8                   2.0             
+27           100              7                   15                  2.5             
+32           111              1                   9                   1.5             
+
+Minute # 2
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+37           121              1                   6                   1.5             
+38           128              0                   10                  2.0             
+41           135              1                   8                   1.6             
+45           145              0                   7                   1.1666666666666667
+50           170              1                   13                  1.0833333333333333
+53           179              2                   11                  1.5714285714285714
+
+Minute # 3
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+55           189              2                   12                  1.3333333333333333
+58           195              0                   6                   1.0             
+60           207              1                   11                  1.375           
+65           219              1                   9                   1.125           
+68           228              0                   4                   1.0             
+
+Minute # 4
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+72           244              1                   10                  1.1111111111111112
+74           248              3                   7                   1.75            
+75           260              2                   14                  1.1666666666666667
+89           297              0                   5                   1.0             
+
+Minute # 5
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+87           304              1                   18                  1.6363636363636365
+92           311              3                   10                  1.4285714285714286
+95           324              1                   10                  1.6666666666666667
+97           330              1                   7                   1.75            
+
+Minute # 6
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+104          362              1                   14                  1.4             
+108          370              1                   9                   1.125           
+111          374              0                   4                   1.0             
+112          388              0                   14                  1.2727272727272727
+116          396              0                   6                   1.2             
+115          399              0                   11                  1.8333333333333333
+118          407              2                   10                  1.6666666666666667
+121          416              0                   9                   1.0             
+
+Minute # 7
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+122          427              4                   15                  1.3636363636363635
+125          442              5                   18                  1.5             
+134          463              1                   11                  1.5714285714285714
+135          466              0                   10                  1.6666666666666667
+137          473              2                   9                   1.2857142857142858
+
+Minute # 8
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+139          483              1                   11                  1.375           
+141          493              2                   12                  1.2             
+147          510              1                   9                   1.125           
+149          522              4                   16                  1.4545454545454546
+150          527              4                   16                  4.0             
+146          533              1                   36                  3.0             
+
+Minute # 9
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+144          541              1                   49                  4.454545454545454
+148          551              30                  48                  6.857142857142857
+145          557              48                  63                  5.7272727272727275
+143          569              68                  80                  10.0            
+142          574              75                  88                  9.777777777777779
+140          576              0                   99                  24.75           
+138          587              109                 120                 15.0            
+136          590              118                 130                 21.666666666666668
+132          596              0                   149                 12.416666666666666
+
+Minute # 10
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+133          605              147                 156                 19.5            
+131          609              1                   165                 23.571428571428573
+130          612              1                   171                 28.5            
+128          619              0                   184                 46.0            
+129          623              174                 185                 23.125          
+127          634              191                 202                 20.2            
+126          638              0                   211                 30.142857142857142
+123          646              223                 229                 38.166666666666664
+124          651              217                 230                 38.333333333333336
+119          655              1                   254                 36.285714285714285
+
+Minute # 11
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+117          672              265                 278                 25.272727272727273
+120          678              250                 273                 22.75           
+110          681              12                  316                 52.666666666666664
+114          689              298                 306                 38.25           
+109          699              329                 336                 67.2            
+113          705              311                 327                 29.727272727272727
+105          708              1                   357                 59.5            
+
+Minute # 12
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+107          722              351                 365                 40.55555555555556
+106          728              356                 373                 33.90909090909091
+102          734              0                   391                 32.583333333333336
+101          740              0                   401                 50.125          
+100          744              1                   409                 68.16666666666667
+103          747              389                 402                 67.0            
+99           753              0                   423                 35.25           
+96           758              0                   440                 44.0            
+94           765              1                   455                 56.875          
+98           769              431                 442                 63.142857142857146
+90           779              2                   484                 96.8            
+
+Minute # 13
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+93           785              464                 480                 40.0            
+88           795              498                 506                 72.28571428571429
+91           798              486                 499                 83.16666666666667
+85           805              0                   526                 52.6            
+86           810              1                   527                 52.7            
+83           814              0                   540                 67.5            
+82           817              2                   547                 136.75          
+84           820              0                   544                 108.8           
+81           824              0                   556                 69.5            
+79           831              0                   571                 57.1            
+80           836              2                   573                 57.3            
+
+Minute # 14
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+78           848              578                 590                 65.55555555555556
+77           852              586                 598                 85.42857142857143
+73           859              616                 621                 155.25          
+76           862              603                 613                 102.16666666666667
+70           865              1                   636                 159.0           
+71           870              0                   638                 70.88888888888889
+66           875              6                   660                 94.28571428571429
+69           879              1                   652                 93.14285714285714
+67           882              0                   663                 132.6           
+63           886              1                   680                 85.0            
+61           893              1                   693                 173.25          
+64           898              678                 690                 69.0            
+
+Minute # 15
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+59           910              2                   717                 89.625          
+62           916              696                 714                 59.5            
+56           921              2                   740                 185.0           
+57           923              732                 738                 184.5           
+54           925              0                   753                 188.25          
+52           932              759                 766                 109.42857142857143
+49           943              0                   791                 65.91666666666667
+51           949              770                 787                 71.54545454545455
+48           955              0                   808                 73.45454545454545
+47           957              0                   812                 203.0           
+
+Minute # 16
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+46           961              0                   820                 205.0           
+44           964              3                   831                 138.5           
+42           967              1                   838                 139.66666666666666
+43           979              836                 848                 84.8            
+39           985              2                   865                 78.63636363636364
+36           996              0                   883                 98.11111111111111
+40           1002             862                 879                 79.9090909090909
+35           1004             0                   893                 223.25          
+31           1010             0                   910                 82.72727272727273
+33           1016             907                 912                 228.0           
+34           1018             901                 909                 227.25          
+
+Minute # 17
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+29           1020             0                   926                 231.5           
+28           1027             0                   937                 133.85714285714286
+30           1030             922                 932                 186.4           
+21           1034             0                   969                 121.125         
+23           1040             964                 970                 161.66666666666666
+18           1048             0                   991                 99.1            
+22           1051             972                 983                 163.83333333333334
+17           1058             2                   1006                143.71428571428572
+19           1061             991                 1001                166.83333333333334
+15           1069             1016                1022                170.33333333333334
+16           1074             1011                1024                170.66666666666666
+12           1079             4                   1042                115.77777777777777
+
+Minute # 18
+Process      Finish Time      Response Time       Turnaround Time     Ratio (Turnaround / Service)
+14           1084             1034                1039                207.8           
+11           1097             1050                1063                96.63636363636364
+9            1100             1061                1072                214.4           
+5            1103             5                   1090                181.66666666666666
+7            1108             1084                1089                272.25          
+4            1115             1097                1107                276.75          
+1            1119             0                   1117                93.08333333333333
+0            1126             0                   1126                187.66666666666666
+2            1130             1115                1126                140.75          
+
+Throughput per minute: 7.894736842105263 
+
